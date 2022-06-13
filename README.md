@@ -1,10 +1,12 @@
 Olá 👋
 
-- 🌱 Atualmente estou aprendendo C
+- 🌱 Atualmente estou aprendendo C.
 
-- 📫 Como me contatar: daniel_fieni@hotmail.com
+- 📫 Como me contatar: daniel_fieni@hotmail.com.
 
-- 📕 Estou cursando Bacharelado em Sistema de Informação
+- 📕 Estou cursando Bacharelado em Sistemas de Informação.
+
+- 🛠 Os projetos estão sendo adicionados na ordem que foram feitos desde meu início na programação
 
 - 💡 Em constante evolução
 
