@@ -1,6 +1,6 @@
 Olá 👋
 
-- 🌱 Atualmente estou aprendendo C.
+- 🌱 Atualmente estou aprendendo Python.
 
 - 📫 Como me contatar: daniel_fieni@hotmail.com.
 
