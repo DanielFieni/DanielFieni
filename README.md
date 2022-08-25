@@ -1,6 +1,6 @@
 Olá 👋
 
-- 🌱 Atualmente estou aprendendo Python.
+- 🌱 Atualmente estou aprendendo Java.
 
 - 📫 Como me contatar: daniel_fieni@hotmail.com.
 
