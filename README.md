@@ -6,8 +6,6 @@ Olá 👋
 
 - 📕 Estou cursando Bacharelado em Sistemas de Informação.
 
-- 🛠 Os projetos estão sendo adicionados na ordem que foram feitos desde meu início na programação
-
 - 💡 Em constante evolução
 
 <br><br>
