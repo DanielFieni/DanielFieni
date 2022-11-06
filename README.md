@@ -19,3 +19,4 @@ Olá 👋
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 ![Python](https://img.shields.io/badge/-python-05122A?style=flat&logo=python)&nbsp;
 ![C](https://img.shields.io/badge/-05122A?style=flat&logo=C)&nbsp;
+![Java](https://img.shields.io/badge/-JAVA-05122A?)&nbsp;
