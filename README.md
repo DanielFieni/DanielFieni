@@ -4,7 +4,7 @@ Olá 👋
 
 - 📫 Como me contatar: daniel_fieni@hotmail.com.
 
-- 📕 Estou cursando Bacharelado em Sistemas de Informação.
+- 📕 Bacharelado em Sistemas de Informação.
 
 - 💡 Em constante evolução
 
